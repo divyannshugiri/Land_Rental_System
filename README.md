@@ -5,6 +5,7 @@ Our **land rental service** is designed to create a seamless and cost-effective 
 We provide **detailed property listings**, complete with high-quality images and comprehensive information, so tenants can make informed decisions. Whether you're looking for residential, commercial, agricultural, or industrial land, our platform offers a wide variety of options to meet your needs.
 
 ### **Benefits for Property Owners:**
+- **Earn Income from Your Land**: If you have unused land, you can list it on our platform and start earning rental income. Whether it's for residential, commercial, or agricultural purposes, your land has the potential to generate steady income.
 - **Direct Connections**: Rent your land without the middleman, keeping the process simple and cost-effective.
 - **Control Over Terms**: Set your preferred lease conditions and negotiate directly with tenants.
 - **Increased Exposure**: List your land on our platform and attract potential tenants quickly. Our wide reach ensures that your property is seen by a large audience.
