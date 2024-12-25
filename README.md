@@ -23,4 +23,4 @@ Whether you're a tenant looking for the ideal land or an owner wanting to list y
 
 ---
 
-**Contact us** now to list your land or find the perfect rental property!
+
